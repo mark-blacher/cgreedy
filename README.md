@@ -94,4 +94,18 @@ Install it using pip:
 pip install cgreedy
 ```
 
+## Reference Paper
+
+The multiple-cost-functions strategy employed in `cgreedy` is discussed in our paper, titled [_"Optimizing Tensor Contraction Paths: A Greedy Algorithm Approach With Improved Cost Functions"_](https://arxiv.org/abs/2405.09644).
+
+```bibtex
+@article{Orgler2024,
+  author    = {Orgler, Sheela and Blacher, Mark},
+  title     = {Optimizing Tensor Contraction Paths: A Greedy Algorithm Approach With Improved Cost Functions},
+  year      = {2024},
+  journal   = {arXiv},
+  doi       = {10.48550/arXiv.2405.09644}
+}
+```
+
 Happy coding!
